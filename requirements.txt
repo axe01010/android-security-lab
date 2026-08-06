@@ -1,0 +1,2 @@
+# Optional deep-analyze engine for analyze.py (stdlib fallback exists if absent).
+androguard>=3.3.3
